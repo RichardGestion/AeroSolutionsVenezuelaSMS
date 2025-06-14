@@ -43,7 +43,7 @@ textarea {
 
 .circle {
   border-radius: 50%;
-  background: linear-gradient(135deg, transparent 20%, #12014e);
+  background: linear-gradient(135deg, transparent 20%, #0c0c0c);
   position: absolute;
 }
 
