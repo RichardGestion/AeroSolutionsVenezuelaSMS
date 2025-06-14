@@ -66,7 +66,7 @@ textarea {
   position: absolute;
   width: 26px;
   height: 26px;
-  background-color: #12014e;
+  background-color: #0c0c0c;
   transform: rotate(45deg);
   top: 50px;
   left: -13px;
@@ -172,7 +172,7 @@ textarea.input {
   opacity: 0;
   transition: 0.3s;
   height: 5px;
-  background-color: #12014e;
+  background-color: #0c0c0c;
   top: 50%;
   transform: translateY(-50%);
 }
@@ -247,7 +247,7 @@ textarea.input {
   position: absolute;
   width: 110px;
   height: 100px;
-  border: 22px solid #12014e;
+  border: 22px solid #0c0c0c;
   border-radius: 50%;
   bottom: -77px;
   right: 50px;
@@ -259,7 +259,7 @@ textarea.input {
   width: 500px;
   height: 500px;
   border-radius: 50%;
-  background: linear-gradient(to bottom, #12014e, #12014e);
+  background: linear-gradient(to bottom, #0c0c0c, #0c0c0c);
   bottom: 50%;
   right: 50%;
   transform: translate(-40%, 38%);
